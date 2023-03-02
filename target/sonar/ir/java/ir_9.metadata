@@ -1,0 +1,2 @@
+com.jtspringproject.JtSpringProject.controller.AdminController#index(Lorg/springframework/ui/Model;)Ljava/lang/String;
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z

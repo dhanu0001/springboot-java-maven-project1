@@ -1,0 +1,7 @@
+organization=dhanu0001
+projectKey=saks-code-repo
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.38066
+dashboardUrl=https://sonarcloud.io/dashboard?id=saks-code-repo
+ceTaskId=AYZ5M5tG_vZJ5zX19oom
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYZ5M5tG_vZJ5zX19oom

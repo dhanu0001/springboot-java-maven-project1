@@ -1,0 +1,29 @@
+
+{com.jtspringproject.JtSpringProject.controller.AdminController#addproduct(Lorg/springframework/ui/Model;)Ljava/lang/String;š
+/Users/h896619/code/E-commerce-project-springBoot/JtProject/src/main/java/com/jtspringproject/JtSpringProject/controller/AdminController.java³ ³("startingBlock*Ž
+startingBlockš
+/Users/h896619/code/E-commerce-project-springBoot/JtProject/src/main/java/com/jtspringproject/JtSpringProject/controller/AdminController.java³ ³(&Ú×
+š
+/Users/h896619/code/E-commerce-project-springBoot/JtProject/src/main/java/com/jtspringproject/JtSpringProject/controller/AdminController.java³ ³(%%
+modelorg.springframework.ui.Model"java.util.HashMap*
+1*µ
+1š
+/Users/h896619/code/E-commerce-project-springBoot/JtProject/src/main/java/com/jtspringproject/JtSpringProject/controller/AdminController.java´	 ´(á
+Þ
+š
+/Users/h896619/code/E-commerce-project-springBoot/JtProject/src/main/java/com/jtspringproject/JtSpringProject/controller/AdminController.java´	 ´(
+%0"template!productsAdd*^
+
+__unknown_file (B"@
+>com.jtspringproject.JtSpringProject.controller.AdminController*C
+
+__unknown_file ('
+%
+modelorg.springframework.ui.Model"®
+š
+/Users/h896619/code/E-commerce-project-springBoot/JtProject/src/main/java/com/jtspringproject/JtSpringProject/controller/AdminController.java´ ´(
+productsAdd:Ä
+š
+/Users/h896619/code/E-commerce-project-springBoot/JtProject/src/main/java/com/jtspringproject/JtSpringProject/controller/AdminController.java³ ³(%%
+modelorg.springframework.ui.ModelBB@
+>com.jtspringproject.JtSpringProject.controller.AdminControllerH
